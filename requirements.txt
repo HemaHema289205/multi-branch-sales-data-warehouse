@@ -1,0 +1,9 @@
+# Multi-Branch Sales Data Warehouse — Python dependencies
+# Install with: pip install -r requirements.txt
+
+pandas==2.2.2
+numpy==1.26.4
+
+# Added in later phases (kept here now so one install covers the whole project):
+mysql-connector-python==8.4.0   # used in Phase 5/7 to load data into MySQL
+python-dotenv==1.0.1            # used in Phase 7 to read .env credentials safely
