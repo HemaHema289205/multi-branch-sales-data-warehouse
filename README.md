@@ -207,3 +207,6 @@ Then open Power BI Desktop, connect to MySQL (`localhost:3306`,
 - Automate the ETL pipeline on a schedule (e.g. with Airflow or Task Scheduler)
 - Add predictive forecasting (e.g. next-quarter sales) using the historical trend
 - Publish the dashboard to Power BI Service for live sharing with branch managers
+
+
+published link: https://app.powerbi.com/groups/me/reports/1992f2f1-b200-4f06-bd1c-4d68ee076160?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare&bookmarkGuid=e22ef0d3-9d3b-4389-9bda-0929ac934592
